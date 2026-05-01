@@ -44,3 +44,6 @@ Bu proje, fiziksel temas olmadan çalınan "Theremin" müzik aletinin dijital bi
 ---
 
 **Developed by Ayşenur Karaküçük** 🚀
+
+<video src="https://github.com/user-attachments/assets/3f70b983-6e75-4d35-9489-1e2fe99f725d
+" width="100%" controls autoplay loop muted> </video>
